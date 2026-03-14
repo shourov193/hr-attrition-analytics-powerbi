@@ -140,5 +140,5 @@ Link: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-d
 ## About
 
 Built by Shaharier Shourov — Microsoft Certified Data Analyst
-Upwork: [your upwork link]
-LinkedIn: [your linkedin link]
+Upwork: (https://www.upwork.com/freelancers/shourov)
+LinkedIn: www.linkedin.com/in/shaharier--shourov
